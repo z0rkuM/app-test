@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './mi-componente.component.scss'
 })
 export class MiComponenteComponent {
-
+//
 }
